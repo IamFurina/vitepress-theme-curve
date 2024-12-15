@@ -7,7 +7,7 @@ export const themeConfig = {
     // 站点描述
     description: "欢迎欢迎, 来这坐会儿~",
     // 站点logo
-    logo: "https://fastcdn.hoyoverse.com/content-v2/plat/101581/77f36e14ec28939d7f77c4c57618c5f7_519912983958508131.jpeg",
+    logo: "/images/logo/logo.webp",
     // 站点地址
     site: "https://blog.focalors.ltd",
     // 语言
@@ -15,7 +15,7 @@ export const themeConfig = {
     // 作者
     author: {
       name: "Focalors",
-      cover: "https://i.111666.best/image/Mf9yMZSTCMJzfJRH8Qwkwv.png",
+      cover: "https://i.111666.best/image/rGNhkTLF8yYzBM9jCj0t4S.jpg",
       email: "noreply@qhutao.us.kg",
       link: "https://focalors.ltd",
     },
