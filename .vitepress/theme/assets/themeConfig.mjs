@@ -15,7 +15,7 @@ export const themeConfig = {
     // 作者
     author: {
       name: "Focalors",
-      cover: "https://i.111666.best/image/rGNhkTLF8yYzBM9jCj0t4S.jpg",
+      cover: "/images/logo/logo.webp",
       email: "noreply@qhutao.us.kg",
       link: "https://focalors.ltd",
     },
